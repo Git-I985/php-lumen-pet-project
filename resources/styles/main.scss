@@ -1,0 +1,6 @@
+.home-dashboard-card {
+  transition: all .1s ease;
+  &:hover {
+    transform: scale(1.01);
+  }
+}
